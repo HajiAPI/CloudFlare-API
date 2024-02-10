@@ -1,4 +1,4 @@
-# CloudFlare-API
+# CloudFlare API
 
 This PHP source code helps you to use Cloudflare in your projects and access the panel through the API. With this code, you can: * Easily manage your Cloudflare DNS records * Purge your Cloudflare cache * Get information about your Cloudflare account * And much more!
 
@@ -24,6 +24,13 @@ require_once('cloudflare-api.php');
 $CloudFlare = new CloudFlare("{X-Auth-Key}", "{X-Auth-Email}");
 ```
 
+## What is X-Auth-Key?
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 Notes:
 
 > If you need more support or guidance, you can contact the writer of this library via https://hajiapi.ir/contact-us/ and t.me/HttpAdmin.
+
+
+`Developed with love by Haji API - Telegram: @HajiAPI && WebSite: https://hajiapi.ir`
