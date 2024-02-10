@@ -23,3 +23,7 @@ require_once('cloudflare-api.php');
 
 $CloudFlare = new CloudFlare("{X-Auth-Key}", "{X-Auth-Email}");
 ```
+
+Notes:
+
+> If you need more support or guidance, you can contact the writer of this library via https://hajiapi.ir/contact-us/ and t.me/HttpAdmin.
